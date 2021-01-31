@@ -2,7 +2,7 @@
     $server = "localhost";
     $username = "root";
     $password = "";
-    $databaseName = "StudentsDb";
+    $databaseName = "mobilephones";
 ?>
 <!DOCTYPE html>
 <html lang="en">
